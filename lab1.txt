@@ -1,4 +1,3 @@
 GitHub for Windows
 Seja bem vindo!
-Primeiro Laboratorio.
-Alterando o arquivo para o segundo commit.
+Primeira Laboratorio.
